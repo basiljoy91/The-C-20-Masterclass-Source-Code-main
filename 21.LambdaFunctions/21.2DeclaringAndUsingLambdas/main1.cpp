@@ -2,14 +2,14 @@
 
 using namespace std;
 
-
+auto fun = [](){
+    cout << "hello world" << endl;
+}; 
 
 int main(){
 
-[](){
-    cout << "hello world" << endl;
-}(); 
 
+fun();
  return 0;
 }
 
