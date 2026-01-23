@@ -22,10 +22,11 @@ int main(){
 	auto resutl_b = add(b_1, b_2);
 	cout << "result_b: " << resutl_b << endl;
 
-	/*double c_10 = {1.11};
+	/*
+	double c_10 = {1.11};
 	double c_11 = {2.22};
 	auto result_c = add(c_10, c_11);
 	cout << "result_c: " << result_c << endl;
-*/
+	*/
 	return 0;
 }
