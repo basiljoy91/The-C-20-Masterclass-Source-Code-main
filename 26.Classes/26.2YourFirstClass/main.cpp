@@ -9,6 +9,7 @@ class Cylinder{
             return PI * radius * radius * height;
         }
 
+    private:
         double radius = {1};
         double height = {1};
 };
