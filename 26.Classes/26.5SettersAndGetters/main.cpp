@@ -1,6 +1,17 @@
- #include<iostream>
+/*
+In C++, private member variables of a class cannot be accessed directly from main(). T
+o read or modify these private variables, we define public member functions inside the class. 
+These functions act as interfaces between the private data and the outside world.
 
- using namespace std;
+Functions used to retrieve the value of private variables are called getters, 
+and functions used to modify their values are called setters. Since these functions are public, 
+they can be called from main(), allowing controlled access to the private data. 
+This approach is known as the getter and setter mechanism.*/
+ 
+
+#include<iostream>
+
+using namespace std;
 
  double PI {3.14};
 
