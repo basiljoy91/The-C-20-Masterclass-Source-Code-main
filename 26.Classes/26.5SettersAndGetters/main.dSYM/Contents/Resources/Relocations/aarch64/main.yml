@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/basiljoy/VS code/The-C-20-Masterclass-Source-Code-main/26.Classes/26.5SettersAndGetters/main'
+relocations:
+  - { offset: 0x2479, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xFA36, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offset: 0x2497, size: 0x8, addend: 0x0, symName: _PI, symObjAddr: 0x318, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x268C, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_main.cpp, symObjAddr: 0x39C, symBinAddr: 0x100000A44, symSize: 0x14 }
+  - { offset: 0x26A3, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x360, symBinAddr: 0x100000A08, symSize: 0x3C }
+  - { offset: 0x26C1, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xCC, symBinAddr: 0x1000007BC, symSize: 0x24C }
+  - { offset: 0x26FB, size: 0x8, addend: 0x0, symName: __ZN8Cylinder14set_pri_radiusEd, symObjAddr: 0xA8, symBinAddr: 0x100000798, symSize: 0x24 }
+  - { offset: 0x2732, size: 0x8, addend: 0x0, symName: __ZN8Cylinder14set_pri_heightEd, symObjAddr: 0x84, symBinAddr: 0x100000774, symSize: 0x24 }
+  - { offset: 0x2769, size: 0x8, addend: 0x0, symName: __ZN8Cylinder14get_pri_heightEv, symObjAddr: 0x68, symBinAddr: 0x100000758, symSize: 0x1C }
+  - { offset: 0x2791, size: 0x8, addend: 0x0, symName: __ZN8Cylinder14get_pri_radiusEv, symObjAddr: 0x4C, symBinAddr: 0x10000073C, symSize: 0x1C }
+  - { offset: 0x27E9, size: 0x8, addend: 0x0, symName: __ZN8CylinderC1Edd, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x4C }
+...
