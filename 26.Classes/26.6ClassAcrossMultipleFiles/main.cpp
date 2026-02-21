@@ -6,8 +6,6 @@ In C programming, header files (.h) are used to create reusable libraries that s
 
 #include <iostream>
 #include "class.h"
-#include "constand.h"
-#include "class.h"
 
 
 using namespace std;
