@@ -14,5 +14,7 @@ int main(){
     cout << "Pointer Cylinder: " << cylinder3->volume() << endl;
     cout << "pointer Cylinder: " << (*cylinder3).volume() << endl;
 
+
+    delete cylinder3;
     return 0;
 }
