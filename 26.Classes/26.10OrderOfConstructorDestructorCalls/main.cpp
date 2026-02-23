@@ -29,4 +29,11 @@ class Dog{
 int main(){
     Dog sugu("sugu", "dash", 1);
     Dog las("lasweg", "pomeraninan", 4);
-    
+    Dog mittu("mittu", "pala", 1);
+    Dog jack("jacky", "husky", 6);
+    Dog dal("dal", "hero", 2);
+
+    cout << "done" << endl;
+
+    return 0;
+}
