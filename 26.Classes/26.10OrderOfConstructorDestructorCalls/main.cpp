@@ -9,4 +9,5 @@ class Dog{
         string_view breed;
         int* age {nullptr};
 
-    
+    public:
+       
