@@ -26,3 +26,7 @@ class Dog{
         }
 };
 
+int main(){
+    Dog sugu("sugu", "dash", 1);
+    Dog las("lasweg", "pomeraninan", 4);
+    
